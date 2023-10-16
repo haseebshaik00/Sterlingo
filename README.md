@@ -5,5 +5,5 @@ A web application, developed using ReactJS and NodeJS and configured to a MongoD
 ![image](https://github.com/haseebshaik00/Sterlingo/assets/43778460/78afba8f-40e3-4596-8b77-4bd95c7ba7b0)
 
 ## DB Connection
-MONGODB_URI="mongodb+srv://haseebSterlingo:Haseebmongo2018!@cluster0.gtt1pi3.mongodb.net/?retryWrites=true&w=majority"
+MONGODB_URI="mongodb+srv://haseebSterlingo:<PASSWORD>@cluster0.gtt1pi3.mongodb.net/?retryWrites=true&w=majority"
 
